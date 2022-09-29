@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "id": 1,
+            "wid": 1,
             "type": "video",
             "name": "video.mp4"
         },
         {
-            "id": 2,
+            "wid": 2,
             "type": "pic",
             "name": "pic.png"
         }

@@ -1,1 +1,15 @@
-{}
+{
+    "data":[
+        {
+            "dir":"001",
+            "type":"video",
+            "name":"video.mp4"
+        },
+        {
+            "dir":"002",
+            "type": "pic",
+            "name": "pic.png"
+        }
+
+    ]
+}

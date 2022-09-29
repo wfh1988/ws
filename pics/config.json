@@ -1,15 +1,14 @@
 {
-    "data":[
+    "data": [
         {
-            "dir":"001",
-            "type":"video",
-            "name":"video.mp4"
+            "id": 1,
+            "type": "video",
+            "name": "video.mp4"
         },
         {
-            "dir":"002",
+            "id": 2,
             "type": "pic",
             "name": "pic.png"
         }
-
     ]
 }

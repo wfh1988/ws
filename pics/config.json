@@ -3,12 +3,14 @@
         {
             "wid": 1,
             "type": "video",
-            "name": "video.mp4"
+            "name": "video.mp4",
+            "thumbnail": "thumbnail.png"
         },
         {
             "wid": 2,
             "type": "pic",
-            "name": "pic.png"
+            "name": "pic.png",
+            "thumbnail": "thumbnail.png"
         }
     ]
 }
